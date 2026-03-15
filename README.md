@@ -7,8 +7,8 @@ An end-to-end Data Analytics project that collects book data using web scraping,
 
 **Focus Areas:** Pricing trends, rating distribution, genre analysis
 
-**Dashboard Preview**
-!\[Dashboard](assets/dashboard-preview.png)
+**Dashboard Preview:**
+![Book Data Dashboard](assets/dashboard-preview.png)
 
 **Project Overview**
 This project analyzes a catalog of books collected through web scraping. The goal is to explore patterns in book pricing, ratings, genres, and inventory availability. The project demonstrates an end-to-end data analytics workflow including data collection, cleaning, exploratory data analysis, and dashboard visualization.
