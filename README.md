@@ -1,6 +1,7 @@
 **📚 Book Data Analysis**
 
 An end-to-end Data Analytics project that collects book data using web scraping, performs data cleaning and exploratory analysis using Python, and presents insights through an interactive Power BI dashboard.
+
 **Project Type:** Data Analysis / Data Visualization  
 **Dataset Size:** 780 Books  
 **Tools:** Python, BeautifulSoup, Pandas, Jupyter Notebook, Power BI  
