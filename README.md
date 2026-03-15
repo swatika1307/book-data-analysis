@@ -1,4 +1,4 @@
-**📚 Book Data Analysis**
+                                                                                                  **📚 Book Data Analysis**
 
 An end-to-end Data Analytics project that collects book data using web scraping, performs data cleaning and exploratory analysis using Python, and presents insights through an interactive Power BI dashboard.
 
@@ -7,6 +7,7 @@ An end-to-end Data Analytics project that collects book data using web scraping,
 **Tools:** Python, BeautifulSoup, Pandas, Jupyter Notebook, Power BI  
 **Key Focus:** Pricing trends, rating distribution, genre analysis
 
+-------------------------------------------------------------------------------------------------------------------------
 **Dashboard Preview**
 
 ![Book Data Dashboard](assets/dashboard-preview.png)
