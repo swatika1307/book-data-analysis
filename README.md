@@ -2,11 +2,17 @@
 
 An end-to-end Data Analytics project that collects book data using web scraping, performs data cleaning and exploratory analysis using Python, and presents insights through an interactive Power BI dashboard.
 
-**## Tools Used**  Python, BeautifulSoup, Pandas, Jupyter Notebook, Power BI
+**## Tools Used**
 
-**## Dataset Size**  780 Books
+Python, BeautifulSoup, Pandas, Jupyter Notebook, Power BI
 
-**## Focus Areas**  Pricing trends, rating distribution, genre analysis
+**## Dataset Size**
+
+780 Books
+
+**## Focus Areas**
+
+Pricing trends, rating distribution, genre analysis
 
 **## Dashboard Preview**
 
@@ -30,7 +36,9 @@ The dataset was created by scraping an online book catalog website and cleaned f
 2. Data Cleaning : Cleaned and structured the scraped data to prepare it for analysis.
 3. Exploratory Data Analysis : Analyzed price ranges, rating distributions, and genre patterns.
 
-**## Dashboard Development**  Created a Power BI dashboard to visualize insights interactively.
+**## Dashboard Development**
+
+Created a Power BI dashboard to visualize insights interactively.
 
 **## Key Insights**
 
@@ -40,4 +48,6 @@ The dataset was created by scraping an online book catalog website and cleaned f
 4. Higher priced books do not consistently receive higher ratings.
 5. Mid-priced books often provide similar ratings to expensive books.
 
-**## Skills Demonstrated**  Web Scraping, Data Cleaning, Exploratory Data Analysis, Data Visualization, Dashboard Development, Data Storytelling
+**## Skills Demonstrated**
+
+Web Scraping, Data Cleaning, Exploratory Data Analysis, Data Visualization, Dashboard Development, Data Storytelling
