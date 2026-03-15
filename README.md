@@ -1,4 +1,4 @@
-                                                                                                  **📚 Book Data Analysis**
+                                                  **📚 Book Data Analysis**
 
 An end-to-end Data Analytics project that collects book data using web scraping, performs data cleaning and exploratory analysis using Python, and presents insights through an interactive Power BI dashboard.
 
@@ -12,17 +12,25 @@ An end-to-end Data Analytics project that collects book data using web scraping,
 
 ![Book Data Dashboard](assets/dashboard-preview.png)
 
+-------------------------------------------------------------------------------------------------------------------------
+
 **Project Overview**
 
 This project analyzes a catalog of books collected through web scraping. The goal is to explore patterns in book pricing, ratings, genres, and inventory availability. The project demonstrates an end-to-end data analytics workflow including data collection, cleaning, exploratory data analysis, and dashboard visualization.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 **Objective**
 
 The objective of this project is to analyze book catalog data and identify trends in pricing, ratings, and genre distribution. By processing raw scraped data and visualizing it through dashboards, the project aims to understand how book prices, ratings, and genres are distributed and whether pricing influences ratings.
 
+-------------------------------------------------------------------------------------------------------------------------
+
 **Dataset**
 
 The dataset was created by scraping an online book catalog website and cleaned for analysis. Information collected includes: Book Title, Genre, Price, Rating, Inventory Availability
+
+-------------------------------------------------------------------------------------------------------------------------
 
 **Project Workflow**
 
@@ -30,9 +38,13 @@ The dataset was created by scraping an online book catalog website and cleaned f
 2. Data Cleaning : Cleaned and structured the scraped data to prepare it for analysis.
 3. Exploratory Data Analysis : Analyzed price ranges, rating distributions, and genre patterns.
 
+-------------------------------------------------------------------------------------------------------------------------
+
 **Dashboard Development**
 
 Created a Power BI dashboard to visualize insights interactively.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 **Key Insights**
 
@@ -41,6 +53,8 @@ Created a Power BI dashboard to visualize insights interactively.
 3. Ratings are balanced across categories such as Good, Very Good, and Excellent.
 4. Higher priced books do not consistently receive higher ratings.
 5. Mid-priced books often provide similar ratings to expensive books.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 **Skills Demonstrated**
 
